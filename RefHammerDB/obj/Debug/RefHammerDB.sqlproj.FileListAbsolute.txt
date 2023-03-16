@@ -1,0 +1,10 @@
+C:\Projects\RefHammer\RefHammerDB\bin\Debug\RefHammerDB.dacpac
+C:\Projects\RefHammer\RefHammerDB\bin\Debug\RefHammerDB.dll
+C:\Projects\RefHammer\RefHammerDB\bin\Debug\RefHammerDB.pdb
+C:\Projects\RefHammer\RefHammerDB\obj\Debug\RefHammerDB.sqlproj.AssemblyReference.cache
+C:\Projects\RefHammer\RefHammerDB\obj\Debug\Model.xml
+C:\Projects\RefHammer\RefHammerDB\obj\Debug\refactor.xml
+C:\Projects\RefHammer\RefHammerDB\obj\Debug\postdeploy.sql
+C:\Projects\RefHammer\RefHammerDB\obj\Debug\predeploy.sql
+C:\Projects\RefHammer\RefHammerDB\obj\Debug\RefHammerDB.dll
+C:\Projects\RefHammer\RefHammerDB\obj\Debug\RefHammerDB.pdb
