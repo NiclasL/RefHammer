@@ -1,0 +1,6 @@
+<h1>Stratagems</h1>
+<div class="d-grid gap-2">
+    <div *ngFor="let faction of currentFactionList">
+        <button (Click)="getSubfactions(faction)" class="btn btn-lg btn-primary" type="button">{{faction.name}}</button>
+    </div>
+</div>

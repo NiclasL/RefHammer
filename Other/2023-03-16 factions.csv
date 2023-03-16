@@ -1,0 +1,203 @@
+1|short|name|link|is_subfaction|parent_id
+2|AM|Astra Militarum|https://wahapedia.ru/wh40k9ed/factions/astra-militarum|false|
+3|GC|Genestealer Cults|https://wahapedia.ru/wh40k9ed/factions/genestealer-cults|false|
+4|NEC|Necrons|https://wahapedia.ru/wh40k9ed/factions/necrons|false|
+5|AE|Aeldari|https://wahapedia.ru/wh40k9ed/factions/aeldari|false|
+6|TL|Titan Legions|https://wahapedia.ru/wh40k9ed/factions/titan-legions|false|
+7|ORK|Orks|https://wahapedia.ru/wh40k9ed/factions/orks|false|
+8|RT|Rogue Traders|https://wahapedia.ru/wh40k9ed/factions/rogue-traders|false|
+9|CHEM|Emperor’s Spears|https://wahapedia.ru/wh40k9ed/factions/space-marines/emperor-s-spears|true|SM
+10|CHTK|Tome Keepers|https://wahapedia.ru/wh40k9ed/factions/space-marines/tome-keepers|true|SM
+11|UN|Unaligned|https://wahapedia.ru/wh40k9ed/factions/unaligned|false|
+12|GK|Grey Knights|https://wahapedia.ru/wh40k9ed/factions/grey-knights|false|
+13|TAU|T’au Empire|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|false|
+14|AdM|Adeptus Mechanicus|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|false|
+15|TS|Thousand Sons|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|false|
+16|DG|Death Guard|https://wahapedia.ru/wh40k9ed/factions/death-guard|false|
+17|CHST|Silver Templars|https://wahapedia.ru/wh40k9ed/factions/space-marines/silver-templars|true|SM
+18|CHBA|Blood Angels|https://wahapedia.ru/wh40k9ed/factions/space-marines/blood-angels|true|SM
+19|CHBT|Black Templars|https://wahapedia.ru/wh40k9ed/factions/space-marines/black-templars|true|SM
+20|CHDA|Dark Angels|https://wahapedia.ru/wh40k9ed/factions/space-marines/dark-angels|true|SM
+21|CHDW|Deathwatch|https://wahapedia.ru/wh40k9ed/factions/space-marines/deathwatch|true|SM
+22|CHIF|Imperial Fists|https://wahapedia.ru/wh40k9ed/factions/space-marines/imperial-fists|true|SM
+23|CHIH|Iron Hands|https://wahapedia.ru/wh40k9ed/factions/space-marines/iron-hands|true|SM
+24|CHRG|Raven Guard|https://wahapedia.ru/wh40k9ed/factions/space-marines/raven-guard|true|SM
+25|CHSA|Salamanders|https://wahapedia.ru/wh40k9ed/factions/space-marines/salamanders|true|SM
+26|CHSW|Space Wolves|https://wahapedia.ru/wh40k9ed/factions/space-marines/space-wolves|true|SM
+27|CHUL|Ultramarines|https://wahapedia.ru/wh40k9ed/factions/space-marines/ultramarines|true|SM
+28|CHWS|White Scars|https://wahapedia.ru/wh40k9ed/factions/space-marines/white-scars|true|SM
+29|CHAC|Astral Claws|https://wahapedia.ru/wh40k9ed/factions/space-marines/astral-claws|true|SM
+30|CHBR|Blood Ravens|https://wahapedia.ru/wh40k9ed/factions/space-marines/blood-ravens|true|SM
+31|CHCA|Carcharodons|https://wahapedia.ru/wh40k9ed/factions/space-marines/carcharodons|true|SM
+32|CHCF|Crimson Fists|https://wahapedia.ru/wh40k9ed/factions/space-marines/crimson-fists|true|SM
+33|CHEX|Executioners|https://wahapedia.ru/wh40k9ed/factions/space-marines/executioners|true|SM
+34|CHES|Exorcists|https://wahapedia.ru/wh40k9ed/factions/space-marines/exorcists|true|SM
+35|CHFA|Fire Angels|https://wahapedia.ru/wh40k9ed/factions/space-marines/fire-angels|true|SM
+36|CHFH|Fire Hawks|https://wahapedia.ru/wh40k9ed/factions/space-marines/fire-hawks|true|SM
+37|CHFT|Flesh Tearers|https://wahapedia.ru/wh40k9ed/factions/space-marines/flesh-tearers|true|SM
+38|CHHG|Howling Griffons|https://wahapedia.ru/wh40k9ed/factions/space-marines/howling-griffons|true|SM
+39|CHLA|Lamenters|https://wahapedia.ru/wh40k9ed/factions/space-marines/lamenters|true|SM
+40|CHMW|Mantis Warriors|https://wahapedia.ru/wh40k9ed/factions/space-marines/mantis-warriors|true|SM
+41|CHME|Marines Errant|https://wahapedia.ru/wh40k9ed/factions/space-marines/marines-errant|true|SM
+42|CHMI|Minotaurs|https://wahapedia.ru/wh40k9ed/factions/space-marines/minotaurs|true|SM
+43|CHNO|Novamarines|https://wahapedia.ru/wh40k9ed/factions/space-marines/novamarines|true|SM
+44|CHRA|Raptors|https://wahapedia.ru/wh40k9ed/factions/space-marines/raptors|true|SM
+45|CHRS|Red Scorpions|https://wahapedia.ru/wh40k9ed/factions/space-marines/red-scorpions|true|SM
+46|CHSO|Sons of Medusa|https://wahapedia.ru/wh40k9ed/factions/space-marines/sons-of-medusa|true|SM
+47|CHSP|Star Phantoms|https://wahapedia.ru/wh40k9ed/factions/space-marines/star-phantoms|true|SM
+48|CHTC|Tiger Claws|https://wahapedia.ru/wh40k9ed/factions/space-marines/tiger-claws|true|SM
+49|WE|World Eaters|https://wahapedia.ru/wh40k9ed/factions/world-eaters|false|
+50|QT|Chaos Knights|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|false|
+51|HTL|Heretic Titan Legions|https://wahapedia.ru/wh40k9ed/factions/heretic-titan-legions|false|
+52|CD|Chaos Daemons|https://wahapedia.ru/wh40k9ed/factions/chaos-daemons|false|
+53|ALKH|Khorne|https://wahapedia.ru/wh40k9ed/factions/chaos-daemons/khorne|true|CD
+54|ALNU|Nurgle|https://wahapedia.ru/wh40k9ed/factions/chaos-daemons/nurgle|true|CD
+55|ALTZ|Tzeentch|https://wahapedia.ru/wh40k9ed/factions/chaos-daemons/tzeentch|true|CD
+56|ALSL|Slaanesh|https://wahapedia.ru/wh40k9ed/factions/chaos-daemons/slaanesh|true|CD
+57|LGAL|Alpha Legion|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/alpha-legion|true|CSM
+58|LGBL|Black Legion|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/black-legion|true|CSM
+59|LGEC|Emperor’s Children|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/emperor-s-children|true|CSM
+60|LGIW|Iron Warriors|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/iron-warriors|true|CSM
+61|LGNL|Night Lords|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/night-lords|true|CSM
+62|LGWB|Word Bearers|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/word-bearers|true|CSM
+63|LGWE|World Eaters|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/world-eaters|true|CSM
+64|LGCB|Creations of Bile|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/creations-of-bile|true|CSM
+65|LGRC|Red Corsairs|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines/red-corsairs|true|CSM
+66|QI|Imperial Knights|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|false|
+67|SM|Space Marines|https://wahapedia.ru/wh40k9ed/factions/space-marines|false|
+68|TYR|Tyranids|https://wahapedia.ru/wh40k9ed/factions/tyranids|false|
+69|AC|Adeptus Custodes|https://wahapedia.ru/wh40k9ed/factions/adeptus-custodes|false|
+70|AS|Adepta Sororitas|https://wahapedia.ru/wh40k9ed/factions/adepta-sororitas|false|
+71|CSM|Chaos Space Marines|https://wahapedia.ru/wh40k9ed/factions/chaos-space-marines|false|
+72|DRU|Drukhari|https://wahapedia.ru/wh40k9ed/factions/drukhari|false|
+73|RaH|Renegades and Heretics|https://wahapedia.ru/wh40k9ed/factions/renegades-and-heretics|false|
+74|CHWO|Wolfspear|https://wahapedia.ru/wh40k9ed/factions/space-marines/wolfspear|true|SM
+75|CHC0|No supplements|https://wahapedia.ru/wh40k9ed/factions/space-marines/no-supplements|true|SM
+76|CWAL|Alaitoc|https://wahapedia.ru/wh40k9ed/factions/aeldari/alaitoc|true|AE
+77|CWBT|Biel-Tan|https://wahapedia.ru/wh40k9ed/factions/aeldari/biel-tan|true|AE
+78|CWIY|Iyanden|https://wahapedia.ru/wh40k9ed/factions/aeldari/iyanden|true|AE
+79|CWSH|Saim-Hann|https://wahapedia.ru/wh40k9ed/factions/aeldari/saim-hann|true|AE
+80|CWUL|Ulthwé|https://wahapedia.ru/wh40k9ed/factions/aeldari/ulthw-|true|AE
+81|CWYN|Ynnari|https://wahapedia.ru/wh40k9ed/factions/aeldari/ynnari|true|AE
+82|CWHA|Harlequins|https://wahapedia.ru/wh40k9ed/factions/aeldari/harlequins|true|AE
+83|CWAR|Altansar|https://wahapedia.ru/wh40k9ed/factions/aeldari/altansar|true|AE
+84|CHCR|Castellans of the Rift|https://wahapedia.ru/wh40k9ed/factions/space-marines/castellans-of-the-rift|true|SM
+85|LoV|Leagues of Votann|https://wahapedia.ru/wh40k9ed/factions/leagues-of-votann|false|
+86|AMMT|Militarum Tempestus|https://wahapedia.ru/wh40k9ed/factions/astra-militarum/militarum-tempestus|true|AM
+87|AMBB|Brood Brothers|https://wahapedia.ru/wh40k9ed/factions/astra-militarum/brood-brothers|true|AM
+88|AoI|Agents of the Imperium|https://wahapedia.ru/wh40k9ed/factions/agents-of-the-imperium|false|
+89|WEWW|World-Eaters|https://wahapedia.ru/wh40k9ed/factions/world-eaters/world-eaters|true|WE
+90|WERA|Disciples of the Red Angel|https://wahapedia.ru/wh40k9ed/factions/world-eaters/disciples-of-the-red-angel|true|WE
+91|CLBM|Bad Moons|https://wahapedia.ru/wh40k9ed/factions/orks|true|ORK
+92|CLBA|Blood Axes|https://wahapedia.ru/wh40k9ed/factions/orks|true|ORK
+93|CLDS|Deathskulls|https://wahapedia.ru/wh40k9ed/factions/orks|true|ORK
+94|CLES|Evil Sunz|https://wahapedia.ru/wh40k9ed/factions/orks|true|ORK
+95|CLFB|Freebooterz|https://wahapedia.ru/wh40k9ed/factions/orks|true|ORK
+96|CLGF|Goffs|https://wahapedia.ru/wh40k9ed/factions/orks|true|ORK
+97|CLSB|Snakebites|https://wahapedia.ru/wh40k9ed/factions/orks|true|ORK
+98|ORMA|Order of Our Martyred Lady|https://wahapedia.ru/wh40k9ed/factions/adepta-sororitas|true|AS
+99|ORAR|Order of the Argent Shroud|https://wahapedia.ru/wh40k9ed/factions/adepta-sororitas|true|AS
+100|ORBL|Order of the Bloody Rose|https://wahapedia.ru/wh40k9ed/factions/adepta-sororitas|true|AS
+101|OREB|Order of the Ebon Chalice|https://wahapedia.ru/wh40k9ed/factions/adepta-sororitas|true|AS
+102|ORSA|Order of the Sacred Rose|https://wahapedia.ru/wh40k9ed/factions/adepta-sororitas|true|AS
+103|ORVA|Order of the Valorous Heart|https://wahapedia.ru/wh40k9ed/factions/adepta-sororitas|true|AS
+104|CKWHP|Prophets of Flesh|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+105|CKWHT|Coven of Twelve|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+106|CKWCS|Cult of Strife|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+107|CKWCC|Cult of the Cursed Blade|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+108|CKWCR|Cult of the Red Grief|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+109|CKWKP|Kabal of the Poisoned Tongue|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+110|CKWKO|Kabal of the Obsidian Rose|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+111|CKWKF|Kabal of the Flayed Skull|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+112|CKWKB|Kabal of the Black Heart|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+113|CKWHD|Dark Creed|https://wahapedia.ru/wh40k9ed/factions/drukhari|true|DRU
+114|BREX|Exactors|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+115|BRRA|Rapiers|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+116|BRPR|Preservers|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+117|BRPB|Prescient Brethren|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+118|BRWM|Wardmakers|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+119|BRBW|Blades of Victory|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+120|BRSB|Swordbearers|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+121|BRSI|Silver Blades|https://wahapedia.ru/wh40k9ed/factions/grey-knights|true|GK
+122|GTCC|Cult of Change|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+123|GTCK|Cult of Knowledge|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+124|GTCD|Cult of Duplicity|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+125|GTCG|Cult of Magic|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+126|GTCN|Cult of Manipulation|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+127|GTCM|Cult of Mutation|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+128|GTCP|Cult of Prophecy|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+129|GTCS|Cult of Scheming|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+130|GTCT|Cult of Time|https://wahapedia.ru/wh40k9ed/factions/thousand-sons|true|TS
+131|FWAG|Agripinaa|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|true|AdM
+132|FWGR|Graia|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|true|AdM
+133|FWLU|Lucius|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|true|AdM
+134|FWMA|Mars|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|true|AdM
+135|FWME|Metalica|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|true|AdM
+136|FWRY|Ryza|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|true|AdM
+137|FWST|Stygies VIII|https://wahapedia.ru/wh40k9ed/factions/adeptus-mechanicus|true|AdM
+138|SEBO|Bork’an|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|true|TAU
+139|SEDA|Dal’yth|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|true|TAU
+140|SEFE|Farsight Enclaves|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|true|TAU
+141|SEKE|Ke’lshan|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|true|TAU
+142|SESA|Sa’cea|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|true|TAU
+143|SETA|T’au Sept|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|true|TAU
+144|SEVI|Vior’la|https://wahapedia.ru/wh40k9ed/factions/t-au-empire|true|TAU
+145|HFBE|Behemoth|https://wahapedia.ru/wh40k9ed/factions/tyranids|true|TYR
+146|HFGO|Gorgon|https://wahapedia.ru/wh40k9ed/factions/tyranids|true|TYR
+147|HFHY|Hydra|https://wahapedia.ru/wh40k9ed/factions/tyranids|true|TYR
+148|HFJO|Jormungandr|https://wahapedia.ru/wh40k9ed/factions/tyranids|true|TYR
+149|HFKA|Kraken|https://wahapedia.ru/wh40k9ed/factions/tyranids|true|TYR
+150|HFKO|Kronos|https://wahapedia.ru/wh40k9ed/factions/tyranids|true|TYR
+151|HFLE|Leviathan|https://wahapedia.ru/wh40k9ed/factions/tyranids|true|TYR
+152|CUBC|Bladed Cog|https://wahapedia.ru/wh40k9ed/factions/genestealer-cults|true|GC
+153|CUCF|Cult of the Four-armed Emperor|https://wahapedia.ru/wh40k9ed/factions/genestealer-cults|true|GC
+154|CUHC|Hivecult|https://wahapedia.ru/wh40k9ed/factions/genestealer-cults|true|GC
+155|CUPP|Pauper Princes|https://wahapedia.ru/wh40k9ed/factions/genestealer-cults|true|GC
+156|CURC|Rusted Claw|https://wahapedia.ru/wh40k9ed/factions/genestealer-cults|true|GC
+157|CUTH|Twisted Helix|https://wahapedia.ru/wh40k9ed/factions/genestealer-cults|true|GC
+158|PCHA|Harbingers|https://wahapedia.ru/wh40k9ed/factions/death-guard|true|DG
+159|PCIN|Inexorable|https://wahapedia.ru/wh40k9ed/factions/death-guard|true|DG
+160|PCMA|Mortarion’s Anvil|https://wahapedia.ru/wh40k9ed/factions/death-guard|true|DG
+161|PCWR|Wretched|https://wahapedia.ru/wh40k9ed/factions/death-guard|true|DG
+162|PCPO|Poxmongers|https://wahapedia.ru/wh40k9ed/factions/death-guard|true|DG
+163|PCFE|Ferrymen|https://wahapedia.ru/wh40k9ed/factions/death-guard|true|DG
+164|PCMC|Mortarion’s Chosen Sons|https://wahapedia.ru/wh40k9ed/factions/death-guard|true|DG
+165|QAME|Questor Mechanicus|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+166|QAIM|Questor Imperialis|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+167|NHFB|Freeblade|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+168|NHHV|House Vulker|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+169|NHTE|House Terryn|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+170|NHTA|House Taranis|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+171|NHHR|House Raven|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+172|NHHM|House Mortan|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+173|NHHK|House Krast|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+174|NHHH|House Hawkshroud|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+175|NHHG|House Griffith|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+176|NHHC|House Cadmus|https://wahapedia.ru/wh40k9ed/factions/imperial-knights|true|QI
+177|QTIC|Iconoclast Household|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+178|DHDB|Dreadblade|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+179|DHHV|House Vextrix|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+180|DHHL|House Lucaris|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+181|DHHX|House Korvax|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+182|DHHK|House Khymere|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+183|DHHO|House Khomentis|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+184|DHHH|House Herpetrax|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+185|QTIN|Infernal Household|https://wahapedia.ru/wh40k9ed/factions/chaos-knights|true|QT
+186|DYMA|Maynarkh|https://wahapedia.ru/wh40k9ed/factions/necrons|true|NEC
+187|DYME|Mephrit|https://wahapedia.ru/wh40k9ed/factions/necrons|true|NEC
+188|DYNE|Nephrekh|https://wahapedia.ru/wh40k9ed/factions/necrons|true|NEC
+189|DYNI|Nihilakh|https://wahapedia.ru/wh40k9ed/factions/necrons|true|NEC
+190|DYNO|Novokh|https://wahapedia.ru/wh40k9ed/factions/necrons|true|NEC
+191|DYSA|Sautekh|https://wahapedia.ru/wh40k9ed/factions/necrons|true|NEC
+192|DYSZ|Szarekhan|https://wahapedia.ru/wh40k9ed/factions/necrons|true|NEC
+193|LUGT|Greater Thurian League|https://wahapedia.ru/wh40k9ed/factions/leagues-of-votann|true|LoV
+194|LUKH|Kronus Hegemony|https://wahapedia.ru/wh40k9ed/factions/leagues-of-votann|true|LoV
+195|LUTH|Trans-Hyperian Alliance|https://wahapedia.ru/wh40k9ed/factions/leagues-of-votann|true|LoV
+196|LUUS|Urani-Surtr Regulates|https://wahapedia.ru/wh40k9ed/factions/leagues-of-votann|true|LoV
+197|LUYC|Ymyr Conglomerate|https://wahapedia.ru/wh40k9ed/factions/leagues-of-votann|true|LoV
+198|SHAS|Aquilan Shield|https://wahapedia.ru/wh40k9ed/factions/adeptus-custodes|true|AC
+199|SHDH|Dread Host|https://wahapedia.ru/wh40k9ed/factions/adeptus-custodes|true|AC
+200|SHEI|Emissaries Imperatus|https://wahapedia.ru/wh40k9ed/factions/adeptus-custodes|true|AC
+201|SHEC|Emperor’s Chosen|https://wahapedia.ru/wh40k9ed/factions/adeptus-custodes|true|AC
+202|SHSK|Shadowkeepers|https://wahapedia.ru/wh40k9ed/factions/adeptus-custodes|true|AC
+203|SHSW|Solar Watch|https://wahapedia.ru/wh40k9ed/factions/adeptus-custodes|true|AC
