@@ -1,12 +1,7 @@
-﻿CREATE TABLE [dbo].[Stratagems]
-(
-	[Id] INT NOT NULL PRIMARY KEY, 
-    [faction_id] NCHAR(10) NULL, 
-    [name] NVARCHAR(50) NULL, 
-    [type] NVARCHAR(10), 
-    [cp_cost] INT NULL, 
-    [legend] NVARCHAR(MAX) NULL, 
-    [source_id] NVARCHAR(MAX) NULL, 
-    [subfaction_id] NCHAR(10) NULL, 
-    [description] NVARCHAR(MAX) NULL
-)
+﻿-- Load the CSV data into the temporary table
+COPY temp_csv_data FROM '/path/to/csv/file.csv' DELIMITER ',' CSV HEADER;
+
+-- Insert the data from the temporary table into the target table
+INSERT INTO target_table (column1, column2, ...)
+SELECT column1, column2, ...
+FROM temp_csv_data;

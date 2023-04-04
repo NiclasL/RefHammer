@@ -1,6 +1,28 @@
-<h1>Stratagems</h1>
-<div class="d-grid gap-2">
-    <div *ngFor="let faction of currentFactionList">
-        <button (Click)="getSubfactions(faction)" class="btn btn-lg btn-primary" type="button">{{faction.name}}</button>
+
+<h1 class="headline">Stratagems</h1>
+<div>
+  <h1 style="display: inline;" (click)="factionBack()" *ngIf="currentFaction"><span>&#8592;</span></h1>
+  <h2 style="display: inline;" *ngIf="currentFaction">{{currentFaction}}</h2>
+</div>
+<div class="container" style="padding-top: 5%;">
+  <div class="row">
+    <div class="d-grid gap-2 col-2" style="height: 0px;">
+        <div *ngFor="let faction of currentFactionList">
+            <button (click)="getSubfactions(faction)" class="btn btn-lg btn-primary"
+                type="button">{{faction.name}}</button>
+        </div>
     </div>
+    <div class="col-10">
+        <div *ngFor="let Stratagems of factionStrats" style="padding-bottom: 1%;">
+          <div class="header">
+            <div style="display: inline;">{{Stratagems.name}}</div>
+            <div style="display: inline; float: right;">{{Stratagems.cp_cost}}CP</div>
+            <h6 innerHTML={{Stratagems.type}}></h6>
+          </div>
+          <div class="body">
+            <h6 innerHTML={{Stratagems.description}}></h6>
+          </div>
+        </div>
+    </div>
+  </div>
 </div>
