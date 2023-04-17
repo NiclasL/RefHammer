@@ -6,11 +6,13 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { FactionService } from './Services/factions.service';
 import { StratagemsComponent } from './Stratagems/stratagems/stratagems.component';
+import { GameComponent } from './game/game.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    StratagemsComponent
+    StratagemsComponent,
+    GameComponent
   ],
   imports: [
     BrowserModule,
