@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { FactionService } from './Services/factions.service';
 import { StratagemsComponent } from './Stratagems/stratagems/stratagems.component';
 import { GameComponent } from './game/game.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { GameComponent } from './game/game.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule 
+    HttpClientModule,
+    FormsModule
   ],
   providers: [
     FactionService

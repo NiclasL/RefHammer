@@ -1,0 +1,103 @@
+17-04-2023 12:25:26	This log contains information about the import schema operation into project 'RefHammerDatabase' on computer 'DESKTOP-NEHSRM7' by user 'nicla'.
+17-04-2023 12:25:26	Import of database schema has started.
+17-04-2023 12:25:29	Gathering error messages
+17-04-2023 12:25:29	Gathering cryptographic providers
+17-04-2023 12:25:29	Gathering credentials
+17-04-2023 12:25:29	Gathering logins
+17-04-2023 12:25:29	Gathering server roles
+17-04-2023 12:25:29	Gathering server role memberships
+17-04-2023 12:25:29	Gathering linked servers
+17-04-2023 12:25:29	Gathering linked server logins
+17-04-2023 12:25:29	Gathering routes
+17-04-2023 12:25:29	Gathering ddl triggers
+17-04-2023 12:25:29	Gathering encrypted and clr ddl triggers
+17-04-2023 12:25:29	Gathering event notifications
+17-04-2023 12:25:29	Gathering server audits
+17-04-2023 12:25:29	Gathering server audit specifications
+17-04-2023 12:25:29	Gathering event notifications
+17-04-2023 12:25:33	Gathering database credentials
+17-04-2023 12:25:33	Gathering database options
+17-04-2023 12:25:33	Gathering generic database scoped configuration option
+17-04-2023 12:25:33	Gathering users
+17-04-2023 12:25:33	Gathering roles
+17-04-2023 12:25:33	Gathering application roles
+17-04-2023 12:25:33	Gathering role memberships
+17-04-2023 12:25:33	Gathering filegroups
+17-04-2023 12:25:33	Gathering files
+17-04-2023 12:25:33	Gathering full-text catalogs
+17-04-2023 12:25:33	Gathering assemblies
+17-04-2023 12:25:33	Gathering certificates
+17-04-2023 12:25:33	Gathering asymmetric keys
+17-04-2023 12:25:33	Gathering symmetric keys
+17-04-2023 12:25:33	Gathering encrypted symmetric keys
+17-04-2023 12:25:33	Gathering database encryption keys
+17-04-2023 12:25:33	Gathering schemas
+17-04-2023 12:25:33	Gathering XML schema collections
+17-04-2023 12:25:33	Gathering user-defined data types
+17-04-2023 12:25:33	Gathering user-defined types
+17-04-2023 12:25:33	Gathering table types
+17-04-2023 12:25:33	Gathering unique keys for table types
+17-04-2023 12:25:33	Gathering primary keys for table types
+17-04-2023 12:25:33	Gathering indexes for table types
+17-04-2023 12:25:33	Gathering check constraints for table types
+17-04-2023 12:25:33	Gathering default constraints for table types
+17-04-2023 12:25:33	Gathering partition functions
+17-04-2023 12:25:33	Gathering partition schemes
+17-04-2023 12:25:33	Gathering functions
+17-04-2023 12:25:33	Gathering encrypted functions
+17-04-2023 12:25:33	Gathering aggregates
+17-04-2023 12:25:33	Gathering procedures
+17-04-2023 12:25:33	Gathering encrypted procedures
+17-04-2023 12:25:33	Gathering tables
+17-04-2023 12:25:33	Gathering primary keys
+17-04-2023 12:25:33	Gathering unique constraints
+17-04-2023 12:25:33	Gathering foreign keys
+17-04-2023 12:25:33	Gathering default constraints
+17-04-2023 12:25:33	Gathering check constraints
+17-04-2023 12:25:33	Gathering views
+17-04-2023 12:25:33	Gathering encrypted views
+17-04-2023 12:25:33	Gathering indexes
+17-04-2023 12:25:33	Gathering statistics
+17-04-2023 12:25:33	Gathering full-text index stoplists
+17-04-2023 12:25:33	Gathering search property lists
+17-04-2023 12:25:33	Gathering search properties
+17-04-2023 12:25:33	Gathering full-text indexes
+17-04-2023 12:25:33	Gathering column store indexes
+17-04-2023 12:25:33	Gathering spatial indexes
+17-04-2023 12:25:33	Gathering XML indexes
+17-04-2023 12:25:33	Gathering Selective XML indexes
+17-04-2023 12:25:33	Gathering encrypted triggers
+17-04-2023 12:25:33	Gathering triggers
+17-04-2023 12:25:33	Gathering encrypted and clr ddl triggers
+17-04-2023 12:25:33	Gathering ddl triggers
+17-04-2023 12:25:33	Creating edge constraints
+17-04-2023 12:25:33	Gathering synonyms
+17-04-2023 12:25:33	Gathering defaults
+17-04-2023 12:25:33	Gathering data constraint uddt bindings
+17-04-2023 12:25:33	Gathering rules
+17-04-2023 12:25:33	Gathering data constraint uddt bindings
+17-04-2023 12:25:33	Gathering message types
+17-04-2023 12:25:33	Gathering queues
+17-04-2023 12:25:33	Gathering contracts
+17-04-2023 12:25:33	Gathering services
+17-04-2023 12:25:33	Gathering routes
+17-04-2023 12:25:33	Gathering event notifications
+17-04-2023 12:25:33	Gathering remote service bindings
+17-04-2023 12:25:33	Gathering broker priorities
+17-04-2023 12:25:33	Gathering database audit specifications
+17-04-2023 12:25:33	Gathering signatures
+17-04-2023 12:25:33	Gathering data compression options
+17-04-2023 12:25:33	Gathering sequence types
+17-04-2023 12:25:33	Gathering security policies
+17-04-2023 12:25:33	Gather column encryption keys
+17-04-2023 12:25:33	Gathering column master keys
+17-04-2023 12:25:33	Gathering external data sources
+17-04-2023 12:25:33	Gathering external file formats
+17-04-2023 12:25:33	Gathering external tables
+17-04-2023 12:25:33	Gathering extended properties
+17-04-2023 12:25:33	Gathering assemblies
+17-04-2023 12:25:34	Scanning project for duplicate elements
+17-04-2023 12:25:34	Finished duplicate element processing
+17-04-2023 12:25:34	Finished importing database.
+17-04-2023 12:25:34	A summary of the import was saved to the following location: C:\Projects\RefHammer\RefHammerDatabase\Import Schema Logs\RefHammerDatabase_20230417102526.log
+17-04-2023 12:25:34	Click Finish to continue...
