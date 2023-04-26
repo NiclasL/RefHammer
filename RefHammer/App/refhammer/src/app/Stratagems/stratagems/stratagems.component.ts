@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { FactionService } from 'src/app/Services/factions.service';
 import { filter } from 'rxjs/operators';
 import { Faction } from 'src/app/Models/factions';
-import { StratagemService } from 'src/app/Services/stratagem.service copy';
+import { StratagemService } from 'src/app/Services/stratagem.service';
 import { Stratagem } from 'src/app/Models/stratagems';
 
 @Component({

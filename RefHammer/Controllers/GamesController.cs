@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using RefHammer.Enums;
 using RefHammer.Model;
 
 namespace RefHammer.Controllers
@@ -93,8 +94,8 @@ namespace RefHammer.Controllers
             {
                 id = new Guid(),
                 name = game.name,
-                endDate= game.endDate,
-                gameType= enum. game.gameType,
+                endDate = game.endDate,
+                gameType = game.gameType,
                 startDate = game.startDate
             }) ;
             await _context.SaveChangesAsync();

@@ -4,6 +4,35 @@
   <title>Angular Form</title>
 </head>
 <body>
+  <table class="table">
+
+    <!-- Add a table header row -->
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Start Date</th>
+        <th>End Date</th>
+      </tr>
+    </thead>
+
+    <!-- Add a table body -->
+    <tbody>
+      <!-- Use an *ngFor loop in Angular to iterate over a list of items -->
+      <tr *ngFor="let item of gameList">
+        <!-- Add a column for the item's name -->
+        <td>{{ item.name }}</td>
+        <!-- Add a column for the item's type -->
+        <td>{{ item.gameType }}</td>
+        <!-- Add a column for the item's start date -->
+        <td>{{ item.startDate }}</td>
+        <!-- Add a column for the item's end date -->
+        <td>{{ item.endDate }}</td>
+      </tr>
+    </tbody>
+
+  </table>
+
   <div class="container">
     <form (submit)="createGame()">
       <div class="form-group">
@@ -13,7 +42,7 @@
       <div class="form-group">
         <label for="gameType">Game Type:</label>
         <select class="form-control" id="gameType" name="gameType" [(ngModel)]="game.gameType" required>
-          <option *ngFor="let type of gameTypes" [value]="type">{{type}}</option>
+          <option *ngFor="let type of keys(GameType)" [ngValue]="type">{{type}}</option>
         </select>
       </div>
       <div class="form-group">

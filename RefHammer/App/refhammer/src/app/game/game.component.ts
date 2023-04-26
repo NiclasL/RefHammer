@@ -14,6 +14,12 @@ export class GameComponent implements OnInit {
   public gameType: GameType;
   public startDate: Date;
   public endDate: Date;
+  public GameType = GameType;
+
+  public gameList: Game[];
+
+  keys = Object.keys;
+  symbols = GameType;
 
   game: Game = {
     name: '',
@@ -22,14 +28,17 @@ export class GameComponent implements OnInit {
     endDate: new Date()
   };
 
-  gameTypes = Object.values(GameType);
-
-
   constructor(
     private _gameService: GameService,
-  ) { }
+
+  ) {
+    this._gameService.getGames().subscribe(games => {
+      this.gameList = games as Game[]
+    });
+  }
 
   ngOnInit(): void {
+
   }
 
   createGame() {

@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Game } from '../Models/game';
+import { GameType } from '../enums/gameType';
 
 @Injectable({
   providedIn: 'root'
@@ -11,8 +12,11 @@ export class GameService {
   constructor(private http: HttpClient) {}
 
   addGame(game: Game) {
-    console.log(game);
     return this.http.post<Game>(this.apiUrl, game);
+  }
+
+  getGames() {
+    return this.http.get<any>(this.apiUrl);
   }
 }
 
