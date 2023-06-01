@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\RefHammer\\RefHammer\\RefHammer.csproj": {}
+    "C:\\Projects\\RefHammer\\RefHammer\\RefHammer.csproj": {}
   },
   "projects": {
-    "C:\\projects\\RefHammer\\RefHammer\\RefHammer.csproj": {
+    "C:\\Projects\\RefHammer\\RefHammer\\RefHammer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\RefHammer\\RefHammer\\RefHammer.csproj",
+        "projectUniqueName": "C:\\Projects\\RefHammer\\RefHammer\\RefHammer.csproj",
         "projectName": "RefHammer",
-        "projectPath": "C:\\projects\\RefHammer\\RefHammer\\RefHammer.csproj",
-        "packagesPath": "C:\\Users\\Niclas Larsen\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\RefHammer\\RefHammer\\obj\\",
+        "projectPath": "C:\\Projects\\RefHammer\\RefHammer\\RefHammer.csproj",
+        "packagesPath": "C:\\Users\\nicla\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\RefHammer\\RefHammer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Niclas Larsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\nicla\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,13 +46,13 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.16, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.16, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -90,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

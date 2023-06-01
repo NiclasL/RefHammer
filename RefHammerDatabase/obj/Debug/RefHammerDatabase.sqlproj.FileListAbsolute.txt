@@ -4,7 +4,3 @@ C:\Projects\RefHammer\RefHammerDatabase\bin\Debug\RefHammerDatabase.pdb
 C:\Projects\RefHammer\RefHammerDatabase\obj\Debug\RefHammerDatabase.sqlproj.AssemblyReference.cache
 C:\Projects\RefHammer\RefHammerDatabase\obj\Debug\RefHammerDatabase.dll
 C:\Projects\RefHammer\RefHammerDatabase\obj\Debug\RefHammerDatabase.pdb
-C:\projects\RefHammer\RefHammerDatabase\obj\Debug\Model.xml
-C:\projects\RefHammer\RefHammerDatabase\obj\Debug\refactor.xml
-C:\projects\RefHammer\RefHammerDatabase\obj\Debug\postdeploy.sql
-C:\projects\RefHammer\RefHammerDatabase\obj\Debug\predeploy.sql
